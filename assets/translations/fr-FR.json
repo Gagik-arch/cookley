@@ -1,0 +1,73 @@
+{
+    "SelectLanguageScreen": {
+        "title": "Choisir la langue"
+    },
+    "WelcomeScreen": {
+        "title": "Iniziamo a cucinare",
+        "subtitle": "Trova le migliori ricette per cucinare",
+        "signinBtn": "Vai su Accedi",
+        "noAccountYet": "Non hai ancora un account?"
+    },
+    "SigninScreen": {
+        "title": "Content de te revoir!"
+    },
+    "SignupScreen": {
+        "title": "Crea un nuovo account"
+    },
+    "OTPScreen": {
+        "title": "Vérification",
+        "subtitle": "OTP est envoyé à votre numéro de mobile",
+        "didNotReceive": "N'a pas reçu?",
+        "pleaseTellUs": "Merci de nous parler un peu de vous"
+    },
+    "ProfileInfo": {
+        "fullName": "Nom et prénom",
+        "updateInfo": "Information sur la mise à jour"
+    },
+    "TimeOfCooking": {
+        "title": "Temps de cuisson",
+        "reminder": "Me rappeler à l'heure de la cuisson"
+    },
+    "RecepiesScreen": {
+        "searchPlaceholder": "Rechercher une recette, un cuisinier, etc.",
+        "filterBy": "Filtrer par",
+        "sortBy": "Trier par"
+    },
+    "SettingsScreen": {
+        "title": "Paramètres",
+        "editProfil": "Editer le profil",
+        "editYourProfileInformation": "Modifier vos informations de profil",
+        "changeLanguage": "Changer de langue",
+        "selectPreferredAppLanguage": "Sélectionnez la langue d'application préférée",
+        "editItem": "Modifier l'article",
+        "changeTime": "Changer le temps",
+        "support": "Soutien",
+        "privacyPolicy": "Politique de confidentialité",
+        "logout": "Se déconnecter"
+    },
+    "SupportScreen": {
+        "title": "Laissez-nous vous aider",
+        "inputPlaceholder": "Entrer un message",
+        "orConnectUsDirectly": "Ou connectez-nous directement",
+        "emailUs": "Envoyez-nous un email"
+    },
+    "recipes": "Recipes",
+    "favorites": "Favoris",
+    "mealPlan": "Plan de repas",
+    "profile": "Profil",
+    "lestGetYouStarted": "Commençons",
+    "submit": "Soumettre",
+    "signup": "Iscrizione",
+    "signin": "Sign in",
+    "mobileNumber": "Numéro de portable",
+    "enterYourEmail": "Entrer votre Email",
+    "confirm": "Confermare",
+    "resend": "Invia di nuovo",
+    "enterCode": "Insérer le code",
+    "apply": "Appliquer",
+    "categories": "Categories",
+    "gender": "Genre",
+    "age": "Âge",
+    "region": "Région",
+    "foodType": "Type d'aliment"
+}

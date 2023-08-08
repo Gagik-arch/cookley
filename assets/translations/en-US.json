@@ -1,0 +1,73 @@
+{
+    "SelectLanguageScreen": {
+        "title": "Select Language"
+    },
+    "WelcomeScreen": {
+        "title": "Let's Start Cooking",
+        "subtitle": "Find best recipes for cooking",
+        "signinBtn": "Go to Sign In",
+        "noAccountYet": "No account yet?"
+    },
+    "SigninScreen": {
+        "title": "Welcome Back!"
+    },
+    "SignupScreen": {
+        "title": "Create New Account"
+    },
+    "OTPScreen": {
+        "title": "Verification",
+        "subtitle": "OTP is sent to  Your Mobile Number",
+        "didNotReceive": "Did not receive?",
+        "pleaseTellUs": "Please tell us a bit about you"
+    },
+    "ProfileInfo": {
+        "fullName": "Full Name",
+        "updateInfo": "Update Info"
+    },
+    "TimeOfCooking": {
+        "title": "Time of Cooking",
+        "reminder": "Remind me at cooking time"
+    },
+    "RecepiesScreen": {
+        "searchPlaceholder": "Search Recipe, Cook,etc",
+        "filterBy": "Filter by",
+        "sortBy": "Sort by"
+    },
+    "SettingsScreen": {
+        "title": "Settings",
+        "editProfil": "Edit Profile",
+        "editYourProfileInformation": "Edit your Profile Information",
+        "changeLanguage": "Change Language",
+        "selectPreferredAppLanguage": "Select Preferred App Language",
+        "editItem": "Edit Item",
+        "changeTime": "Change Time",
+        "support": "Support",
+        "privacyPolicy": "Privacy Policy",
+        "logout": "Logout"
+    },
+    "SupportScreen": {
+        "title": "Let us Help you",
+        "inputPlaceholder": "Enter Message",
+        "orConnectUsDirectly": "Or Connect us directly",
+        "emailUs": "Email Us"
+    },
+    "recipes": "Recipes",
+    "favorites": "Favorites",
+    "mealPlan": "Meal Plan",
+    "profile": "Profile",
+    "lestGetYouStarted": "Let’s get you started",
+    "submit": "Submit",
+    "signup": "Sign up",
+    "signin": "Sign in",
+    "mobileNumber": "Mobile Number",
+    "enterYourEmail": "Enter your email",
+    "confirm": "Confirm",
+    "resend": "Resend",
+    "enterCode": "Enter Code",
+    "apply": "Apply",
+    "categories": "Categories",
+    "gender": "Gender",
+    "age": "Age",
+    "region": "Region",
+    "foodType": "Food Type"
+}

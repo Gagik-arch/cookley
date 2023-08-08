@@ -1,0 +1,74 @@
+{
+    "SelectLanguageScreen": {
+        "title": "Seleziona la lingua"
+    },
+    "WelcomeScreen": {
+        "title": "Iniziamo a cucinare",
+        "subtitle": "Trova le migliori ricette per cucinare",
+        "signinBtn": "Vai su Accedi",
+        "noAccountYet": "Non hai ancora un account?"
+    },
+    "SigninScreen": {
+        "title": "Bentornato!"
+    },
+    "SignupScreen": {
+        "title": "Crea un nuovo account"
+    },
+    "OTPScreen": {
+        "title": "Verifica",
+        "subtitle": "OTP viene inviato al tuo numero di cellulare",
+        "didNotReceive": "Non ho ricevuto?",
+        "pleaseTellUs": "Per favore, parlaci un po' di te"
+    },
+    "ProfileInfo": {
+        "fullName": "Nome e cognome",
+        "updateInfo": "Aggiornare le informazioni"
+    },
+    "TimeOfCooking": {
+        "title": "Tempo di cottura",
+        "reminder": "Ricordamelo al momento della cottura"
+    },
+    "RecepiesScreen": {
+        "title": "Ricette",
+        "searchPlaceholder": "Cerca ricetta, cuoco, ecc",
+        "filterBy": "Filtra per",
+        "sortBy": "Ordina per"
+    },
+    "SettingsScreen": {
+        "title": "Impostazioni",
+        "editProfil": "Modifica Profilo",
+        "editYourProfileInformation": "Modifica le informazioni del tuo profilo",
+        "changeLanguage": "Cambia lingua",
+        "selectPreferredAppLanguage": "Seleziona la lingua dell'app preferita",
+        "editItem": "Modifica articolo",
+        "changeTime": "Cambia tempo",
+        "support": "Supporto",
+        "privacyPolicy": "Politica sulla riservatezza",
+        "logout": "Disconnettersi"
+    },
+    "SupportScreen": {
+        "title": "Lascia che ti aiutiamo",
+        "inputPlaceholder": "Inserisci Messaggio",
+        "orConnectUsDirectly": "Oppure collegaci direttamente",
+        "emailUs": "Mandaci una email"
+    },
+    "recipes": "ricette",
+    "favorites": "Preferiti",
+    "mealPlan": "Piano pasto",
+    "profile": "Profilo",
+    "lestGetYouStarted": "Iniziamo",
+    "submit": "Invia",
+    "signup": "Iscrizione",
+    "signin": "Registrazione",
+    "mobileNumber": "Numero di cellulare",
+    "enterYourEmail": "Inserisci il tuo indirizzo email",
+    "confirm": "Confermare",
+    "resend": "Invia di nuovo",
+    "enterCode": "Inserisci il codice",
+    "apply": "Fare domanda a",
+    "categories": "Categorie",
+    "gender": "Genere",
+    "age": "Età",
+    "region": "Regione",
+    "foodType": "Tipo di cibo"
+}

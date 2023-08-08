@@ -1,0 +1,9 @@
+export 'auth_screens/main.dart';
+export './tab_screens/main.dart';
+export './select_language.dart';
+export './welcome.dart';
+export './profile_info.dart';
+export './time_of_cooking.dart';
+export './settings.dart';
+export './meal.dart';
+export './support.dart';

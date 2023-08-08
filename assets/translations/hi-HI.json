@@ -1,0 +1,73 @@
+{
+    "SelectLanguageScreen": {
+        "title": "भाषा चुने"
+    },
+    "WelcomeScreen": {
+        "title": "चलिए खाना बनाना शुरू करते हैं",
+        "subtitle": "खाना पकाने के लिए सर्वोत्तम व्यंजन खोजें",
+        "signinBtn": "साइन इन पर जाएं",
+        "noAccountYet": "अभी तक कोई खाता नहीं है?"
+    },
+    "SigninScreen": {
+        "title": "वापसी पर स्वागत है!"
+    },
+    "SignupScreen": {
+        "title": "नया खाता बनाएँ"
+    },
+    "OTPScreen": {
+        "title": "सत्यापन",
+        "subtitle": "आपके मोबाइल नंबर पर ओटीपी भेजा जाता है",
+        "didNotReceive": "नहीं मिला?",
+        "pleaseTellUs": "कृपया हमें अपने बारे में कुछ बताएं"
+    },
+    "ProfileInfo": {
+        "fullName": "पूरा नाम",
+        "updateInfo": "जानकारी अपडेट करें"
+    },
+    "TimeOfCooking": {
+        "title": "खाना पकाने का समय",
+        "reminder": "खाना पकाने के समय मुझे याद दिलाएं"
+    },
+    "RecepiesScreen": {
+        "searchPlaceholder": "रेसिपी, कुक आदि खोजें",
+        "filterBy": "फिल्टर के द्वारा",
+        "sortBy": "इसके अनुसार क्रमबद्ध करें"
+    },
+    "SettingsScreen": {
+        "title": "समायोजन",
+        "editProfil": "प्रोफ़ाइल संपादित करें",
+        "editYourProfileInformation": "अपनी प्रोफ़ाइल जानकारी संपादित करें",
+        "changeLanguage": "भाषा बदलें",
+        "selectPreferredAppLanguage": "अपनी पसंदीदा ऐप भाषा चुनें",
+        "editItem": "संपादित आइटम",
+        "changeTime": "समय परिवर्तन करें",
+        "support": "सहायता",
+        "privacyPolicy": "गोपनीयता नीति",
+        "logout": "लॉग आउट"
+    },
+    "SupportScreen": {
+        "title": "हमें अपनी सहायता करने दें",
+        "inputPlaceholder": "संदेश दर्ज करें",
+        "orConnectUsDirectly": "या हमसे सीधे जुड़ें",
+        "emailUs": "हमें ईमेल करें"
+    },
+    "recipes": "व्यंजनों",
+    "favorites": "पसंदीदा",
+    "mealPlan": "भोजन की योजना",
+    "profile": "प्रोफ़ाइल",
+    "lestGetYouStarted": "आइए आपको शुरू करते हैं",
+    "submit": "जमा करना",
+    "signup": "साइन अप करें",
+    "signin": "दाखिल करना",
+    "mobileNumber": "मोबाइल नंबर",
+    "enterYourEmail": "अपना ईमेल दर्ज करें",
+    "confirm": "पुष्टि करना",
+    "resend": "पुन: भेजें",
+    "enterCode": "कोड दर्ज करें",
+    "apply": "आवेदन करना",
+    "categories": "श्रेणियाँ",
+    "gender": "लिंग",
+    "age": "आयु",
+    "region": "क्षेत्र",
+    "foodType": "भोजन का प्रकार"
+}

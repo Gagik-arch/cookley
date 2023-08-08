@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174614506994",
+    "firebase_url": "https://recipe-ac5c8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "recipe-ac5c8",
+    "storage_bucket": "Recipe app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174614506994:android:8a95adf02cba00b3e44f6b",
+        "android_client_info": {
+          "package_name": "com.company.cookly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174614506994-kpkev357cfvcag0v6vcojtjuo5i48743.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.cookly",
+            "certificate_hash": "072b73a238b212342cb9c9f71cee0e0be8291f6b"
+          }
+        },
+        {
+          "client_id": "174614506994-gbn8c6nm47qu6a1plkm70ajn1ei1n78r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-OUkqFI9ZEcXWRR-k5IhuP7EOXFX60s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174614506994-gbn8c6nm47qu6a1plkm70ajn1ei1n78r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174614506994-0fla41pfvpo69m0t23iq72evd8dv4860.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookly.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
